@@ -9,8 +9,9 @@
 Mi nombre es Jimena Madero Fernández, tengo 20 años y estudio Desarrollo de Software Multiplataforma en la Universidad Tecnológica de Emiliano Zapata, cursando el cuarto cuatrimestre. Me apasiona el desarrollo de aplicaciones y el aprendizaje de nuevas tecnologías.
 
 ---
+### 💻 Habilidades Tecnológicas
 
-## 💻 Habilidades Tecnológicas  
+
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> C  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> C++  
